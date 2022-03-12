@@ -1,0 +1,19 @@
+body{
+    background-image: url("pic/bg.jpg");
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover; /* Resize the background image */
+}
+
+form{
+    width : 40%;
+    /* text-align: center; */
+    margin: auto;
+    background-color:antiquewhite;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+    size: 100px;
+    background-color: bisque;
+}
